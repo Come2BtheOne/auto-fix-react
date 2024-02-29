@@ -1,20 +1,26 @@
 <h1 align="center">auto-fix-react （大屏自适应容器）</h1>
-<p align="center">
-  <a href="https://npmjs.org/package/@jizirui/auto-fix-react">
-    <img src="https://img.shields.io/npm/v/@jizirui/auto-fix-react.svg" alt="LICENSE" />
+<div align="center">
+ <a href="https://react.dev">
+    <img src="https://img.shields.io/badge/react-%3E=16.8.0-green.svg?logo=react&style=flat&colorA=084c61&colorB=f73859" alt="React" />
   </a>
   <a href="https://npmjs.org/package/@jizirui/auto-fix-react">
-    <img src="https://img.shields.io/bundlephobia/min/@jizirui/auto-fix-react.svg" alt="LICENSE" />
+    <img src="https://img.shields.io/npm/v/@jizirui/auto-fix-react.svg?logo=npm&colorA=87ceeb&colorB=ffb6c1" alt="npm-version" />
   </a>
+  <a href="https://npmjs.org/package/@jizirui/auto-fix-react">
+    <img src="https://img.shields.io/bundlephobia/min/@jizirui/auto-fix-react.svg?colorA=8a2be2&colorB=00bdaa" alt="min-size" />
+  </a>
+</div>
+<div align="center">
   <a href="https://github.com/Come2BtheOne/auto-fix-react/releases">
-    <img src="https://img.shields.io/github/release/Come2BtheOne/auto-fix-react.svg" alt="LICENSE" />
+    <img src="https://img.shields.io/github/release/Come2BtheOne/auto-fix-react.svg?logo=github&logoColor=181717&colorA=ffa500&colorB=00ff7f" alt="release" />
   </a>  
   <a href="https://github.com/Come2BtheOne/auto-fix-react">
-    <img src="https://img.shields.io/github/stars/Come2BtheOne/auto-fix-react.svg" alt="LICENSE" />
+    <img src="https://img.shields.io/github/stars/Come2BtheOne/auto-fix-react.svg" alt="Stars" />
   </a>
+</div>
+<p align="center" style="margin-top: 40px;">
+  <a style="color:#f73859;" href="https://github.com/Come2BtheOne/auto-fix-vue3">Vue 项目看这边</a>
 </p>
-
-[Vue3 项目看这边](https://github.com/Come2BtheOne/auto-fix-vue3)
 
 ## 安装
 
