@@ -2,10 +2,10 @@
   "name": "@jizirui/auto-fix-react",
   "author": "jizirui <582271833@qq.com>",
   "description": "react大屏自适应容器",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "types": "dist/es/index.d.ts",
-  "main": "dist/cjs/index.js",
-  "module": "dist/es/index.js",
+  "main": "dist/cjs",
+  "module": "dist/es",
   "browser": "dist/umd/index.js",
   "license": "MIT",
   "keywords": [
