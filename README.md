@@ -64,7 +64,7 @@ const { useAutoFix, FullScreenContainer } = require('@jizirui/auto-fix-react/dis
     <script src="https://cdn.staticfile.org/react/16.8.0/umd/react.development.js"></script>
     <script src="https://cdn.staticfile.org/react-dom/16.8.0/umd/react-dom.development.js"></script>
     <script src="https://cdn.staticfile.org/babel-standalone/6.26.0/babel.min.js"></script>
-    <script src="./node_modules/@jizirui/auto-fix-react/dist/umd/index.js"></script>
+    <script src="https://unpkg.com/@jizirui/auto-fix-react/dist/umd/index.js"></script>
 
     <script type="text/babel">
       function PackageName() {
@@ -87,7 +87,7 @@ const { useAutoFix, FullScreenContainer } = require('@jizirui/auto-fix-react/dis
 
 ```html
 <!-- 组件形式 -->
-<full-screen-container width={1920} height={1080}>
+<full-screen-container width="{1920}" height="{1080}">
   <div>柱状图</div>
   <div>饼图</div>
   ...
